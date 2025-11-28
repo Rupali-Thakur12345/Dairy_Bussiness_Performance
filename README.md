@@ -66,12 +66,7 @@ Dashboard is fully controlled using:
 Slicers (Category, Customer Type, Month)
 Timeline (Date)
 Dashboard image here
-[Book2 dairy.xlsx](https://github.com/user-attachments/files/23825065/Book2.dairy.xlsx)
-
-
-
-
-
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/ccab44cd-c810-4d86-9a3d-3a6e12f82e63" />
 
 
 
